@@ -1,0 +1,39 @@
+{
+    "name":"Corporattica ContentBox Theme",
+    "version":"1.0.0",
+    "author":"Ortus Solutions, Corp",
+    "homepage":"https://github.com/Ortus-Solutions/cbtheme-corporattica",
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/Ortus-Solutions/cbtheme-corporattica.git"
+    },
+    "bugs":"https://github.com/Ortus-Solutions/cbtheme-corporattica/issues",
+    "slug":"corporattica",
+    "shortDescription":"A cool corporate look",
+    "type":"contentbox-layouts",
+    "keywords":"contentbox,theme",
+    "private":false,
+    "license":[
+        {
+            "type":"Apache2",
+            "url":"https://raw.githubusercontent.com/Ortus-Solutions/cbtheme-corporattica/master/LICENSE"
+        }
+    ],
+    "contributors":[
+        
+    ],
+    "dependencies":{
+        
+    },
+    "devDependencies":{
+        
+    },
+    "installPaths":{
+        
+    },
+    "ignore":[
+        "**/.*",
+        "test",
+        "tests"
+    ]
+}

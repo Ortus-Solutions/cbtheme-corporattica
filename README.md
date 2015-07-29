@@ -1,2 +1,2 @@
-# cbtheme-corporattica
+# Corporattica Theme
 A ContentBox theme
