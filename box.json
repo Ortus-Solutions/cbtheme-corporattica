@@ -1,22 +1,26 @@
 {
-    "name":"Corporattica ContentBox Theme",
-    "version":"1.0.0",
-    "author":"Ortus Solutions, Corp",
-    "homepage":"https://github.com/Ortus-Solutions/cbtheme-corporattica",
+    "name":"ContentBox Theme - Corporattica Simple",
+    "version":"2.0.0",
+    "slug":"corporattica",
+    "location" : "https://github.com/contentbox-themes/cbtheme-corporattica/archive/master.zip",
+    "author":"Ortus Solutions",
+    "homepage":"http://www.ortussolutions.com/products/contentbox",
+    "documentation":"https://github.com/contentbox-themes/cbtheme-corporattica",
     "repository":{
         "type":"git",
-        "url":"https://github.com/Ortus-Solutions/cbtheme-corporattica.git"
+        "URL":"https://github.com/contentbox-themes/cbtheme-corporattica"
     },
-    "bugs":"https://github.com/Ortus-Solutions/cbtheme-corporattica/issues",
-    "slug":"corporattica",
-    "shortDescription":"A cool corporate look",
-    "type":"contentbox-layouts",
-    "keywords":"contentbox,theme",
-    "private":false,
+    "bugs":"https://github.com/contentbox-themes/cbtheme-corporattica/issues",
+    "shortDescription":"A flat corporate look",
+    "description":"",
+    "instructions":"",
+    "changelog":"",
+    "type":"contentbox-themes",
+    "projectURL":"",
     "license":[
         {
             "type":"Apache2",
-            "url":"https://raw.githubusercontent.com/Ortus-Solutions/cbtheme-corporattica/master/LICENSE"
+            "URL":"http://www.apache.org/licenses/LICENSE-2.0"
         }
     ],
     "contributors":[
@@ -33,7 +37,6 @@
     },
     "ignore":[
         "**/.*",
-        "test",
         "tests"
     ]
 }
